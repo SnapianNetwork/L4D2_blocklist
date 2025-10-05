@@ -1,0 +1,1 @@
+This contains a bunch of L4D2 modded servers. Almost all are for campaign only.
